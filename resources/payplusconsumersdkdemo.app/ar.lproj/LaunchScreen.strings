@@ -1,0 +1,162 @@
+//"payplus_sdk_Header_AmountPayable"="Yess";
+
+//Home
+"payplus_sdk_wallet"="محفظة نقود";
+"payplus_sdk_home_title"="المدفوعات عبر الإنترنت";
+"payplus_sdk_card"="البطاقات";
+"payplus_sdk_Netbanking"="Netbanking";
+
+//Common header
+"payplus_sdk_Header_AmountPayable"="المبلغ المستحق";
+"payplus_sdk_Header_OrderId"="رقم التعريف الخاص بالطلب";
+
+//Common Footer
+"payplus_sdk_secure_payment_footer" = "دفع آمن عن طريق PayPLUS";
+
+//Card
+"payplus_sdk_confirm_payment"="تأكيد الدفع";
+"payplus_sdk_addcarddetails_navigationTitle"="أضف تفاصيل البطاقة";
+"payplus_sdk_card_navigationTitleString"="بطاقة";
+"payplus_sdk_addCrd_navigationTitle"="إضافة بطاقة";
+"payplus_sdk_card_makePayment"="قم بالدفع";
+"payplus_sdk_card_paymentProgressViewTitle"="دفعتك قيد المعالجة";
+"payplus_sdk_card_paymentProgressViewDescription"="لا تنقر للخلف أو لتحديث الصفحة";
+"payplus_sdk_card_number"="رقم البطاقة";
+"payplus_sdk_name_on_card"="الاسم على البطاقة";
+"payplus_sdk_expiration_date"="انقضاء";
+"payplus_sdk_save_card_for_future_payment"="حفظ البطاقة لسرعة الخروج";
+"payplus_sdk_card_EnterNamePlaceholderText"="أدخل الاسم";
+"payplus_sdk_card_expiryPlaceholderText"="شهر / سنة";
+"payplus_sdk_card_CardNumberPlaceholderText"="xxxx  -  xxxx  -  xxxx  -  xxxx";
+"payplus_sdk_card_CVVPlaceholderText"="XXXX";
+"payplus_sdk_card_SavedCardsTitle"="البطاقات المحفوظة";
+"payplus_sdk_card_SavedCardsAddAnotherCard"="إضافة بطاقة أخرى";
+"payplus_sdk_card_SavedCardsBtnSubTitlet"="حفظ والدفع عبر البطاقات.";
+"payplus_sdk_card_cvv"="CVV";
+"payplus_sdk_delete_card_confirmation"="هل أنت متأكد أنك تريد حذف هذه البطاقة؟";
+"payplus_sdk_delete_card_confirmationTitle"="هل تريد حذف تفاصيل هذه البطاقة؟";
+"payplus_sdk_delete_card_confirmationDelete"="حذف";
+"payplus_sdk_delete_card_confirmationCancel"="إلغاء";
+"payplus_sdk_invalid_card_number"="يرجى إدخال رقم بطاقة صالح";
+"payplus_sdk_invalid_expiry"="الرجاء إدخال تاريخ انتهاء صالح";
+"payplus_sdk_invalid_card_holder_name"="الرجاء إدخال اسم حامل بطاقة صالح";
+"payplus_sdk_invalid_cvv"="يرجى إدخال CVV صالح";
+"payplus_sdk_card_deleted"="تم حذف البطاقة بنجاح";
+"payplus_sdk_masked_card"="XXXX-XXXXXXXX-";
+"payplus_sdk_empty_card_number"="يرجى إدخال رقم البطاقة";
+"payplus_sdk_empty_card_name"="الرجاء إدخال الاسم على البطاقة";
+"payplus_sdk_empty_expiry_date"="يرجى إدخال تاريخ انتهاء الصلاحية";
+"payplus_sdk_empty_cvv"="الرجاء إدخال CVV للبطاقة";
+
+//Wallet
+"payplus_sdk_enterMobileNumber"="أدخل رقم الجوال";
+"payplus_sdk_enterMSISDN"="يرجى إدخال MSISDN الخاص بك أدناه ، ثم انقر فوق زر الإرسال";
+"payplus_sdk_confirm_pushwallet_steps"="[ERROR]\n\nيرجى اتباع هذه الخطوات لإجراء الدفع.\n\nالموافقة على المعاملة من خلال رسالة الدفع المستلمة.\n\nبعد إتمام المعاملة على هاتفك ، انقر فوق زر تأكيد الدفع للتحقق من حالة معاملتك.";
+"payplus_sdk_confirm_refwallet_steps"="[ERROR]\n\nيرجى اتباع هذه الخطوات لإجراء الدفع.\n\nأدخل معرف المرجع المعروض أعلاه في تطبيق الجوال [PLACEHOLDER].\n\nبعد إتمام المعاملة على هاتفك ، انقر فوق زر تأكيد الدفع للتحقق من حالة معاملتك.";
+"payplus_sdk_invalid_mobile_number"="الرجاء إدخال رقم هاتف صحيح";
+"payplus_sdk_empty_mobile_number"="يرجى إدخال رقم الهاتف المحمول";
+"payplus_sdk_err_no_wallet"="لا توجد محافظ متاحة لهذه المعاملة. يرجى تحديد وسيلة دفع مختلفة.";
+"payplus_sdk_gen_ref_id"="إنشاء معرف مرجعي";
+"payplus_sdk_enter_phone_msg"="الرجاء إدخال رقم هاتفك المحمول ثم النقر على زر إرسال";
+"payplus_sdk_enter_ref_phone_msg"="يرجى إدخال MSISDN الخاص بك أدناه ثم انقر فوق الزر إنشاء معرف مرجعي";
+
+//Bank
+"payplus_sdk_InitiatePayment"="بدء الدفع";
+"payplus_sdk_BankSelectBank"="حدد البنك";
+"payplus_sdk_BankSelectOtherBank"="حدد البنوك الأخرى";
+"payplus_sdk_select_bank"="حدد البنك من القائمة";
+"payplus_sdk_search_bank"="ابحث من هنا";
+"payplus_sdk_bank_detailsHeader"="يرجى استخدام التفاصيل أدناه للتحويل المصرفي الخاص بك";
+"payplus_sdk_bank_accountName"="أسم الحساب:";
+"payplus_sdk_bank_accountNo"="رقم الحساب:";
+"payplus_sdk_bank_accountCode"="رمز الحساب:";
+"payplus_sdk_bank_swiftCode"="رمز السرعة:";
+"payplus_sdk_bank_iBAN"="IBAN:";
+"payplus_sdk_bank_address"="عنوان:";
+"payplus_sdk_no_banks"="لم يتم العثور على بنوك";
+"payplus_sdk_all_bank" = "جميع البنوك";
+"payplus_sdk_selecta_bank" = "حدد البنك";
+//Common
+"payplus_sdk_ok"="حسنا";
+"payplus_sdk_cancel"="إلغاء";
+"payplus_sdk_alert"="إنذار";
+"payplus_sdk_continue"="استمر";
+"payplus_sdk_Submit"="إرسال";
+"payplus_sdk_Error"="خطأ";
+"payplus_sdk_no_internet"="الرجاء التحقق من اتصال الانترنت الخاص بك";
+"payplus_sdk_timeout_error"="انتهت مهلة المعاملة ، يرجى المحاولة بعد قليل.";
+"payplus_sdk_err"="هناك خطأ ما. حاول مرة اخرى.";
+"payplus_sdk_done"="فعله";
+"payplus_sdk_transaction_error_header" = "فشل الاجراء";
+"payplus_sdk_transaction_Retry" = "إعادة المحاولة";
+"payplus_sdk_transaction_error_ChangePayment" = "قم بتغيير آلية الدفع";
+
+//Mandatory reuirements
+"payplus_sdk_invalid_paymentchannelid"="معرف قناة دفع غير صالح";
+"payplus_sdk_invalid_hierlabelreference"="مرجع تسمية Hier غير صالح";
+"payplus_sdk_invalid_hierarchy"="معايير التسلسل الهرمي للتاجر غير صالحة";
+"payplus_sdk_invalid_checksum"="المجموع الاختباري للتاجر غير صالح";
+"payplus_sdk_invalid_merchantname"="اسم التاجر غير صالح";
+"payplus_sdk_invalid_productname"="اسم المنتج غير صالح";
+"payplus_sdk_invalid_mobilenumber"="رقم الجوال غير صالح";
+"payplus_sdk_invalid_emailid"="عنوان البريد الإلكتروني غير صالح";
+"payplus_sdk_invalid_currency"="رمز العملة غير صالح";
+"payplus_sdk_invalid_amount"="مبلغ غير صحيح";
+"payplus_sdk_invalid_appcolor"="لون التطبيق غير صالح";
+"payplus_sdk_invalid_fontcolor"="لون الخط غير صالح";
+"payplus_sdk_invalid_font"="ملف الخط غير صالح";
+"payplus_sdk_invalid_recurringpayment"="خيار دفع متكرر غير صالح";
+"payplus_sdk_invalid_image"="ملف صورة غير صالح";
+"payplus_sdk_invalid_country_code"="رمز البلد غير صالح";
+"payplus_sdk_auth_failure"="تعذر استرداد رمز التفويض";
+"payplus_sdk_invalid_end_point"="نقطة نهاية غير صالحة";
+"payplus_sdk_invalid_order_id"="معرف الطلب غير صالح";
+"payplus_sdk_invalid_check_sum_payment"="دفع مبلغ الشيكات غير صالح";
+"payplus_sdk_invalid_tax_included"="شامل ضريبة غير صالحة";
+"payplus_sdk_invalid_customer_code"="رمز العميل غير صالح";
+"payplus_sdk_invalid_additional_fields"="الحقول الإضافية غير صالحة";
+"payplus_sdk_invalid_billing_address"="عنوان الفاتورة غير صالح";
+"payplus_sdk_invalid_billing_city"="مدينة فوترة غير صالحة";
+"payplus_sdk_invalid_billing_country"="بلد الفوترة غير صالح";
+"payplus_sdk_invalid_billing_state"="حالة الفواتير غير صالحة";
+"payplus_sdk_invalid_billing_zip_code"="الرمز البريدي للفواتير غير صالح";
+"payplus_sdk_invalid_customer_dial_code"="رمز اتصال العميل غير صالح";
+"payplus_sdk_invalid_customer_first_name"="الاسم الأول للعميل غير صالح";
+"payplus_sdk_invalid_customer_last_name"="الاسم الأخير للعميل غير صالح";
+"payplus_sdk_invalid_ship_address"="عنوان الشحن غير صالح";
+"payplus_sdk_invalid_ship_to_city"="سفينة غير صالحة للمدينة";
+"payplus_sdk_invalid_ship_to_country"="سفينة غير صالحة للبلد";
+"payplus_sdk_invalid_ship_to_state"="سفينة غير صالحة للدولة";
+"payplus_sdk_invalid_ship_to_zip_code"="سفينة غير صالحة للرمز البريدي";
+"payplus_sdk_invalid_statusbarcolor"="لون شريط الحالة غير صالح";
+"payplus_sdk_invalid_ec_goods_indicator"="مؤشر البضائع غير صالح";
+"payplus_sdk_invalid_shipping_date"="تاريخ الشحن غير صالح";
+"payplus_sdk_invalid_languageCode"="رمز اللغة غير صالح";
+"payplus_sdk_something_went_wrong"="هناك خطأ ما";
+"payplus_sdk_server_general_error" = "خطأ عام في الخادم";
+"payplus_sdk_regular_invalid_font" = "ملف الخط العادي غير صالح";
+"payplus_sdk_invalid_payment_salt_key" = "مفتاح دفع غير صالح";
+
+//EMI
+"payplus_sdk_EMI" = "EMI على بطاقات الائتمان / الخصم";
+"pauplus_sdk_viewEMI_plans" = "عرض خطط EMI";
+"payplus_sdk_emi_Unavailable" = "EMI غير متوفر في هذه البطاقة";
+"payplus_sdk_emi_onCards" = "EMI على البطاقات";
+"payplus_sdk_selectEMIFor" = "حدد خطة EMI لـ";
+"payplus_sdk_debitCard" = "بطاقة ائتمان";
+"payplus_sdk_viewAllEMI_plans" = "عرض جميع خطط EMI";
+"payplsu_sdk_selectEMIPlan" = "حدد خطة EMI";
+"payplus_sdk_selecetPreferred_bank" = "حدد البنك المفضل";
+"payplus_sdk_allEMIPlans" = "جميع خطط EMI";
+"payplus_sdk_bankProcessing_feeOf" = "يفرض هذا البنك رسوم معالجة تبلغ";
+"payplus_sdk_for_payments_madeEMI" = "للمدفوعات التي تتم من خلال EMI";
+"payplus_sdk_emi_tenure" = "مدة EMI";
+"payplus_sdk_emi_payable" = "EMI مستحقة الدفع";
+"payplus_sdk_total_label" = "مجموع";
+"payplus_sdk_pay_label" = "دفع";
+"payplus_sdk_months_at_label" = "الشهور @";
+"payplus_sdk_transaction_successful" = "عملية ناجحة";
+"payplus_sdk_payplus_order" = "طلب PAYPLUS";
+"payplus_sdk_transaction_hash" = "عملية #";
+
+

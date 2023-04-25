@@ -1,0 +1,151 @@
+[INFO ] 2023-04-22 13:06:55.029 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:06:55.638 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:06:58.566 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:06:58.572 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:06:58.584 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:06:58.584 [main] Log - Applaunch test is skipped.
+[INFO ] 2023-04-22 13:06:58.591 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:08:19.093 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:08:37.780 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:08:51.482 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:08:51.669 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:08:56.146 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:09:21.186 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:09:21.343 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:09:22.409 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:10:50.318 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:10:54.307 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:11:07.888 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:11:08.074 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:11:12.482 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:11:37.669 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:11:37.822 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:11:38.899 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:23:49.649 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:23:53.684 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:24:07.243 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:24:07.437 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:24:11.895 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:24:36.997 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:24:37.168 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:24:38.267 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:26:38.022 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:26:42.103 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:26:55.712 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:26:55.909 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:27:00.434 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:27:25.628 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:27:25.780 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:27:26.843 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:29:47.552 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:29:51.688 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:30:05.273 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:30:05.468 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:30:10.033 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:30:35.190 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:30:35.351 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:30:36.399 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:38:14.477 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:38:18.580 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:38:32.136 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:38:32.338 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:38:36.906 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:39:01.991 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:39:02.158 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:39:03.253 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 13:42:47.621 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 13:42:51.703 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 13:43:05.296 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 13:43:05.483 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:43:10.092 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 13:43:35.284 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 13:43:35.438 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 13:43:36.507 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 16:58:57.933 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 16:59:02.209 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 16:59:15.907 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 16:59:16.267 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 16:59:20.852 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 16:59:46.013 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 16:59:46.179 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 16:59:47.264 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:03:10.751 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:03:14.866 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:03:28.402 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:03:28.678 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:03:33.278 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:03:58.132 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:03:58.295 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:03:59.376 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:15:45.725 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:15:50.118 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:16:03.690 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:16:03.881 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:16:08.557 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:16:41.814 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:16:41.980 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:16:43.059 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:19:55.785 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:20:00.065 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:20:13.623 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:20:13.821 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:20:18.514 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:20:51.759 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:20:51.922 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:20:53.006 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:26:14.726 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:26:18.977 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:26:32.658 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:26:32.830 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:26:37.562 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:27:10.784 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:27:10.951 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:27:12.010 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:29:21.125 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:29:25.437 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:29:39.028 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:29:39.222 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:29:43.979 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:30:17.044 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:30:17.227 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:30:18.303 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:47:01.797 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:47:06.059 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:47:19.651 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:47:19.837 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:47:24.606 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:47:57.650 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:47:57.821 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:47:58.893 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 17:50:55.033 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 17:50:59.337 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 17:51:12.885 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 17:51:13.076 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:51:17.963 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 17:51:51.154 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 17:51:51.320 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 17:51:52.410 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 18:08:21.218 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 18:08:25.532 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 18:08:39.113 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 18:08:39.299 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 18:08:50.062 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 18:09:23.221 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 18:09:23.391 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 18:09:24.484 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 18:35:38.800 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 18:35:52.827 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-22 18:36:08.193 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-22 18:36:09.041 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 18:36:13.877 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-22 18:36:35.868 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-22 18:36:36.127 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 18:36:36.233 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-22 18:38:21.435 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-22 18:38:25.892 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-22 18:38:39.468 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-22 18:38:39.657 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 18:38:44.509 [main] Log - Applaunch test is starting.
+[INFO ] 2023-04-22 18:39:17.687 [main] Log - Applaunch test is succeed.
+[INFO ] 2023-04-22 18:39:17.837 [main] Log - Tests are ending!
+[INFO ] 2023-04-22 18:39:18.930 [main] Log - I am in onFinish method LoginTest

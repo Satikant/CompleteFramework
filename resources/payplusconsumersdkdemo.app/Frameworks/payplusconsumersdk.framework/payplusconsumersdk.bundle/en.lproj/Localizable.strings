@@ -1,0 +1,176 @@
+/*
+  Localizable.strings
+  payplusconsumersdk
+
+  Created by Appiness on 19/04/20.
+  Copyright © 2020 mahindracomviva. All rights reserved.
+*/
+///"payplus_sdk_Header_AmountPayable"="Yess";
+
+//Home
+"payplus_sdk_wallet"="Wallet";
+"payplus_sdk_home_title"="Online Payments";
+"payplus_sdk_card"="Cards";
+"payplus_sdk_Netbanking"="Netbanking";
+
+//Common header
+"payplus_sdk_Header_AmountPayable"="Amount payable";
+"payplus_sdk_Header_OrderId"="Order ID";
+
+//Common Footer
+"payplus_sdk_secure_payment_footer" = "Secure payment by PayPLUS";
+
+//Card
+"payplus_sdk_addcarddetails_navigationTitle"="Add card details";
+"payplus_sdk_card_navigationTitleString"="Card";
+"payplus_sdk_addCrd_navigationTitle"="Add card details";
+"payplus_sdk_card_makePayment"="MAKE PAYMENT";
+"payplus_sdk_card_paymentProgressViewTitle"="Your payment is being processed";
+"payplus_sdk_card_paymentProgressViewDescription"="Do not click back or refresh the page";
+"payplus_sdk_card_number"="Card number";
+"payplus_sdk_name_on_card"="Name on card";
+"payplus_sdk_expiration_date"="Expiry";
+"payplus_sdk_save_card_for_future_payment"="Save card for faster checkout";
+"payplus_sdk_card_EnterNamePlaceholderText"="Enter name";
+"payplus_sdk_card_expiryPlaceholderText"="MM / YY";
+"payplus_sdk_card_CardNumberPlaceholderText"="xxxx  -  xxxx  -  xxxx  -  xxxx";
+"payplus_sdk_card_CVVPlaceholderText"="XXXX";
+"payplus_sdk_card_SavedCardsTitle"="Saved Cards";
+"payplus_sdk_card_SavedCardsAddAnotherCard"="Add another card";
+"payplus_sdk_card_SavedCardsBtnSubTitlet"="Save and Pay via Cards.";
+"payplus_sdk_card_cvv"="CVV";
+"payplus_sdk_delete_card_confirmation"="Are you sure you want to delete this card?";
+"payplus_sdk_delete_card_confirmationTitle"="Do you want to delete the card details?";
+"payplus_sdk_delete_card_confirmationDelete"="DELETE";
+"payplus_sdk_delete_card_confirmationCancel"="CANCEL";
+"payplus_sdk_invalid_card_number"="Enter Valid Card Number";
+"payplus_sdk_invalid_expiry"="Enter Valid Date";
+"payplus_sdk_invalid_card_holder_name"="Enter Valid Card Holder Name";
+"payplus_sdk_invalid_cvv"="Enter Valid CVV";
+"payplus_sdk_card_deleted"="Card Deleted Successfully";
+"payplus_sdk_masked_card"="XXXX-XXXXXXXX-";
+"payplus_sdk_empty_card_number"="Enter Card Number";
+"payplus_sdk_empty_card_name"="Enter Name On Card";
+"payplus_sdk_empty_expiry_date"="Enter Expiry Date";
+"payplus_sdk_empty_cvv"="Enter Card CVV";
+
+//Wallet
+"payplus_sdk_confirm_payment"="CONFIRM PAYMENT";
+"payplus_sdk_enterMobileNumber"="Enter mobile number";
+"payplus_sdk_enterMSISDN"="Please enter your MSISDN below and then click on the submit button";
+"payplus_sdk_confirm_pushwallet_steps"="[ERROR]\n\nPlease follow these steps to make the payment.\n\nApprove the transaction through the push message received.\n\nAfter completing the transaction on your phone click on confirm payment button to check the status of your transaction.";
+"payplus_sdk_confirm_refwallet_steps"="[ERROR]\n\nPlease follow these steps to make the payment.\n\nEnter the reference ID displayed above in your [PLACEHOLDER] mobile app.\n\nAfter completing the transaction on your phone click on confirm payment button to check the status of your transaction.";
+"payplus_sdk_invalid_mobile_number"="Please Enter Valid Mobile Number";
+"payplus_sdk_empty_mobile_number"="Please Enter Mobile Number";
+"payplus_sdk_err_no_wallet"="No wallets available for this transaction.Please select a different payment medium.";
+"payplus_sdk_gen_ref_id"="GENERATE REFERENCE ID";
+"payplus_sdk_enter_phone_msg"="Please enter your mobile number and then click on Submit button";
+"payplus_sdk_enter_ref_phone_msg"="Please enter your MSISDN below then click on the generate reference ID button";
+
+//Bank
+"payplus_sdk_InitiatePayment"="INITIATE PAYMENT";
+"payplus_sdk_BankSelectBank"="Select a bank";
+"payplus_sdk_BankSelectOtherBank"="Select other banks";
+"payplus_sdk_select_bank"="Select bank from list";
+"payplus_sdk_search_bank"="Search from here";
+"payplus_sdk_bank_detailsHeader"="Please use the below details for your bank transfer";
+"payplus_sdk_bank_accountName"="Account name:";
+"payplus_sdk_bank_accountNo"="Account no:";
+"payplus_sdk_bank_accountCode"="Account code:";
+"payplus_sdk_bank_swiftCode"="Swift code:";
+"payplus_sdk_bank_iBAN"="IBAN:";
+"payplus_sdk_bank_address"="Address:";
+"payplus_sdk_no_banks"="No banks found";
+"payplus_sdk_all_bank" = "All Banks";
+"payplus_sdk_selecta_bank" = "Select Bank";
+
+//Common
+"payplus_sdk_ok"="OK";
+"payplus_sdk_cancel"="Cancel";
+"payplus_sdk_alert"="Alert";
+"payplus_sdk_continue"="CONTINUE";
+"payplus_sdk_Submit"="SUBMIT";
+"payplus_sdk_Error"="Error";
+"payplus_sdk_no_internet"="Please check your internet connection";
+"payplus_sdk_timeout_error"="Transaction timed out, please try after sometime.";
+"payplus_sdk_err"="Something went wrong. Please try again.";
+"payplus_sdk_done"="DONE";
+"payplus_sdk_transaction_error_header" = "Transaction Failed";
+"payplus_sdk_transaction_Retry" = "RETRY";
+"payplus_sdk_transaction_error_ChangePayment" = "CHANGE PAYMENT METHOD";
+
+//Mandatory reuirements
+"payplus_sdk_invalid_paymentchannelid"="Invalid Payment channel ID";
+"payplus_sdk_invalid_hierlabelreference"="Invalid Hier Label Reference";
+"payplus_sdk_invalid_hierarchy"="Invalid merchant hierarchy criteria";
+"payplus_sdk_invalid_checksum"="Invalid merchant checksum";
+"payplus_sdk_invalid_merchantname"="Invalid merchant name";
+"payplus_sdk_invalid_productname"="Invalid product name";
+"payplus_sdk_invalid_mobilenumber"="Invalid mobile number";
+"payplus_sdk_invalid_emailid"="Invalid email address";
+"payplus_sdk_invalid_currency"="Invalid currency code";
+"payplus_sdk_invalid_amount"="Invalid amount";
+"payplus_sdk_invalid_appcolor"="Invalid app color";
+"payplus_sdk_invalid_fontcolor"="Invalid font color";
+"payplus_sdk_invalid_font"="Invalid font file";
+"payplus_sdk_invalid_recurringpayment"="Invalid recurring payment choice";
+"payplus_sdk_invalid_image"="Invalid image file";
+"payplus_sdk_invalid_country_code"="Invalid Country Code";
+"payplus_sdk_auth_failure"="Authorization token could not be retrieved";
+"payplus_sdk_invalid_end_point"="Invalid end point";
+"payplus_sdk_invalid_order_id"="Invalid order ID";
+"payplus_sdk_invalid_check_sum_payment"="Invalid check sum payment";
+"payplus_sdk_invalid_tax_included"="Invalid tax included";
+"payplus_sdk_invalid_customer_code"="Invalid customer code";
+"payplus_sdk_invalid_additional_fields"="Invalid additional fields";
+"payplus_sdk_invalid_billing_address"="Invalid billing address";
+"payplus_sdk_invalid_billing_city"="Invalid billing city";
+"payplus_sdk_invalid_billing_country"="Invalid billing country";
+"payplus_sdk_invalid_billing_state"="Invalid billing state";
+"payplus_sdk_invalid_billing_zip_code"="Invalid billing zip code";
+"payplus_sdk_invalid_customer_dial_code"="Invalid customer dial code";
+"payplus_sdk_invalid_customer_first_name"="Invalid customer first name";
+"payplus_sdk_invalid_customer_last_name"="Invalid customer last name";
+"payplus_sdk_invalid_ship_address"="Invalid shipping address";
+"payplus_sdk_invalid_ship_to_city"="Invalid ship to city";
+"payplus_sdk_invalid_ship_to_country"="Invalid ship to country";
+"payplus_sdk_invalid_ship_to_state"="Invalid ship to state";
+"payplus_sdk_invalid_ship_to_zip_code"="Invalid ship to zip code";
+"payplus_sdk_invalid_statusbarcolor"="Invalid status bar color";
+"payplus_sdk_invalid_ec_goods_indicator"="Invalid goods indicator";
+"payplus_sdk_invalid_shipping_date"="Invalid shipping date";
+"payplus_sdk_invalid_languageCode"="Invalid language code";
+"payplus_sdk_something_went_wrong"="Something went wrong";
+"payplus_sdk_server_general_error" = "Server General Error";
+"payplus_sdk_regular_invalid_font" = "Invalid Normal font file";
+"payplus_sdk_invalid_payment_salt_key" = "Invalid Payment Salt Key";
+
+//EMI
+"payplus_sdk_EMI" = "EMI on Credit/Debit cards";
+"pauplus_sdk_viewEMI_plans" = "VIEW EMI PLANS";
+"payplus_sdk_emi_Unavailable" = "EMI not available on this card";
+"payplus_sdk_emi_onCards" = "EMI on Cards";
+"payplus_sdk_selectEMIFor" = "Select EMI plan for";
+"payplus_sdk_debitCard" = "Debit Card";
+"payplus_sdk_viewAllEMI_plans" = "VIEW ALL EMI PLANS";
+"payplsu_sdk_selectEMIPlan" = "Select EMI plan";
+"payplus_sdk_selecetPreferred_bank" = "Select preferred bank";
+"payplus_sdk_allEMIPlans" = "All EMI Plans";
+"payplus_sdk_bankProcessing_feeOf" = "This bank charges processing fee of";
+"payplus_sdk_for_payments_madeEMI" = "for payments made through EMI";
+"payplus_sdk_emi_tenure" = "EMI Tenure";
+"payplus_sdk_emi_payable" = "EMI Payable";
+"payplus_sdk_total_label" = "Total";
+"payplus_sdk_pay_label" = "PAY";
+"payplus_sdk_months_at_label" = "months @";
+"payplus_sdk_transaction_successful" = "Transaction Successful";
+"payplus_sdk_payplus_order" = "PayPLUS order";
+"payplus_sdk_transaction_hash" = "Transaction #";
+
+//Loyality
+"payplus_sdk_available_label" = "Available:";
+"payplus_sdk_use_rewards" = "Use Reward Points";
+"payplus_sdk_reward_points" = "Reward Points";
+"payplus_sdk_available_zero" = "Available: 0";
+"payplus_sdk_loyality_payBtn" = "Pay";
+"payplus_sdk_remaining_label" = "Remaining";

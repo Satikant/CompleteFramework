@@ -1,0 +1,114 @@
+[INFO ] 2023-04-20 13:38:13.221 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 13:38:36.850 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 13:38:50.799 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 13:38:52.759 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 13:38:57.578 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 13:38:57.580 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 13:38:57.804 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 13:38:57.913 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 15:41:03.792 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 15:41:10.673 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 15:41:10.679 [main] Log - Login001 test is failed.
+[INFO ] 2023-04-20 15:41:11.084 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 15:41:15.875 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 15:41:15.876 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 15:41:16.109 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 15:41:16.221 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 15:42:53.473 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 15:42:59.255 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 15:42:59.263 [main] Log - Login001 test is failed.
+[INFO ] 2023-04-20 15:42:59.636 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 15:43:04.474 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 15:43:04.477 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 15:43:04.717 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 15:43:04.825 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 15:44:48.765 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 15:44:54.573 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 15:44:54.580 [main] Log - Login001 test is failed.
+[INFO ] 2023-04-20 15:44:54.977 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 15:44:59.817 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 15:44:59.819 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 15:45:00.064 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 15:45:00.171 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 16:08:58.240 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 16:09:04.044 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 16:09:17.447 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 16:09:18.211 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 16:09:23.021 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 16:09:36.360 [main] Log - Login002 test is succeed.
+[INFO ] 2023-04-20 16:09:36.625 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 16:09:36.738 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 16:12:00.667 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 16:12:06.482 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 16:12:26.879 [main] Log - Login001 test is failed.
+[INFO ] 2023-04-20 16:12:27.153 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 16:12:32.051 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 16:12:51.155 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 16:12:51.411 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 16:12:51.524 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 18:59:03.655 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 18:59:11.376 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 18:59:25.322 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 18:59:25.683 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 18:59:30.494 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 18:59:44.167 [main] Log - Login002 test is succeed.
+[INFO ] 2023-04-20 18:59:44.457 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 18:59:44.565 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:04:55.088 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:05:01.548 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 19:05:14.560 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 19:05:15.355 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:05:20.175 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 19:05:33.476 [main] Log - Login002 test is succeed.
+[INFO ] 2023-04-20 19:05:33.737 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:05:33.851 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:07:42.551 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:07:48.474 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 19:08:01.702 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 19:08:02.049 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:08:06.871 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 19:08:22.661 [main] Log - Login002 test is succeed.
+[INFO ] 2023-04-20 19:08:22.950 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:08:23.061 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:09:45.807 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:09:51.656 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 19:09:51.663 [main] Log - Login001 test is failed.
+[INFO ] 2023-04-20 19:09:52.057 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:09:56.890 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 19:09:56.893 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 19:09:57.132 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:09:57.244 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:11:05.399 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:11:11.216 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 19:11:11.222 [main] Log - Login001 test is failed.
+[INFO ] 2023-04-20 19:11:11.594 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:11:16.405 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 19:11:16.408 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 19:11:16.663 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:11:16.771 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:12:58.637 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:13:04.472 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 19:13:18.350 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 19:13:19.107 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:13:23.967 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 19:13:36.860 [main] Log - Login002 test is succeed.
+[INFO ] 2023-04-20 19:13:37.169 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:13:37.281 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:31:06.688 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:31:13.207 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-20 19:31:27.968 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-20 19:31:28.689 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:31:33.515 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-20 19:31:55.920 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-20 19:31:56.190 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:31:56.303 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 19:59:17.324 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 19:59:20.713 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-20 19:59:20.717 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-20 19:59:20.723 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 19:59:20.732 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2023-04-20 20:01:55.117 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-20 20:02:34.661 [main] Log - AppLogin test is starting.
+[INFO ] 2023-04-20 20:02:34.672 [main] Log - AppLogin test is succeed.
+[INFO ] 2023-04-20 20:02:35.573 [main] Log - Tests are ending!
+[INFO ] 2023-04-20 20:02:36.659 [main] Log - I am in onFinish method LoginTest

@@ -1,0 +1,162 @@
+//"payplus_sdk_Header_AmountPayable"="Yess";
+
+//Home
+"payplus_sdk_wallet"="Billetera";
+"payplus_sdk_home_title"="Pagos en línea";
+"payplus_sdk_card"="Tarjetas";
+"payplus_sdk_Netbanking"="Netbanking";
+
+//Common header
+"payplus_sdk_Header_AmountPayable"="Cantidad pagable";
+"payplus_sdk_Header_OrderId"="Solicitar ID";
+
+//Common Footer
+"payplus_sdk_secure_payment_footer" = "Pago seguro por PayPLUS";
+
+//Card
+"payplus_sdk_addcarddetails_navigationTitle"="Agregar detalles de la tarjeta";
+"payplus_sdk_card_navigationTitleString"="Tarjeta";
+"payplus_sdk_addCrd_navigationTitle"="Agregar tarjeta";
+"payplus_sdk_card_makePayment"="HACER EL PAGO";
+"payplus_sdk_card_paymentProgressViewTitle"="Su pago esta siendo procesado";
+"payplus_sdk_card_paymentProgressViewDescription"="No haga clic de nuevo ni actualice la página.";
+"payplus_sdk_card_number"="Número de tarjeta";
+"payplus_sdk_name_on_card"="Nombre en la tarjeta";
+"payplus_sdk_expiration_date"="Expiración";
+"payplus_sdk_save_card_for_future_payment"="Guardar tarjeta para un pago más rápido";
+"payplus_sdk_card_EnterNamePlaceholderText"="Ingrese su nombre";
+"payplus_sdk_card_expiryPlaceholderText"="MM / AA";
+"payplus_sdk_card_CardNumberPlaceholderText"="xxxx  -  xxxx  -  xxxx  -  xxxx";
+"payplus_sdk_card_CVVPlaceholderText"="XXXX";
+"payplus_sdk_card_SavedCardsTitle"="Tarjetas guardadas";
+"payplus_sdk_card_SavedCardsAddAnotherCard"="Añade otra carta";
+"payplus_sdk_card_SavedCardsBtnSubTitlet"="Ahorre y pague con tarjetas.";
+"payplus_sdk_card_cvv"="CVV";
+"payplus_sdk_delete_card_confirmation"="¿Estás segura de que quieres eliminar esta tarjeta?";
+"payplus_sdk_delete_card_confirmationTitle"="¿Quieres eliminar los detalles de esta tarjeta?";
+"payplus_sdk_delete_card_confirmationDelete"="ELIMINAR";
+"payplus_sdk_delete_card_confirmationCancel"="CANCELAR";
+"payplus_sdk_invalid_card_number"="Por favor ingrese un número de tarjeta válido";
+"payplus_sdk_invalid_expiry"="Por favor ingrese una fecha de vencimiento válida";
+"payplus_sdk_invalid_card_holder_name"="Ingrese un nombre de titular de tarjeta válido";
+"payplus_sdk_invalid_cvv"="Por favor ingrese un CVV válido";
+"payplus_sdk_card_deleted"="Tarjeta eliminada con éxito";
+"payplus_sdk_masked_card"="XXXX-XXXXXXXX-";
+"payplus_sdk_empty_card_number"="Por favor ingrese el número de tarjeta";
+"payplus_sdk_empty_card_name"="Por favor ingrese el nombre en la tarjeta";
+"payplus_sdk_empty_expiry_date"="Por favor, introduzca la fecha de caducidad";
+"payplus_sdk_empty_cvv"="Por favor, introduzca la tarjeta CVV";
+
+//Wallet
+"payplus_sdk_confirm_payment"="CONFIRMAR PAGO";
+"payplus_sdk_enterMobileNumber"="Ingrese número de móvil";
+"payplus_sdk_enterMSISDN"="Ingrese su MSISDN a continuación y luego haga clic en el botón Enviar";
+"payplus_sdk_confirm_pushwallet_steps"="[ERROR]\n\nSiga estos pasos para realizar el pago.\n\nAprobar la transacción a través del mensaje push recibido.\n\nDespués de completar la transacción en su teléfono, haga clic en el botón confirmar pago para verificar el estado de su transacción.";
+"payplus_sdk_confirm_refwallet_steps"="[ERROR]\n\nSiga estos pasos para realizar el pago.\n\nIngrese la ID de referencia que se muestra arriba en su [PLACEHOLDER] aplicación movil.\n\nDespués de completar la transacción en su teléfono, haga clic en el botón confirmar pago para verificar el estado de su transacción.";
+"payplus_sdk_invalid_mobile_number"="Por favor ingrese un número de móvil válido";
+"payplus_sdk_empty_mobile_number"="Por favor, introduzca el número de móvil";
+"payplus_sdk_err_no_wallet"="No hay billeteras disponibles para esta transacción. Seleccione un medio de pago diferente.";
+"payplus_sdk_gen_ref_id"="GENERAR ID DE REFERENCIA";
+"payplus_sdk_enter_phone_msg"="Ingrese su número de teléfono móvil y luego haga clic en el botón Enviar";
+"payplus_sdk_enter_ref_phone_msg"="Ingrese su MSISDN a continuación y luego haga clic en el botón generar ID de referencia";
+
+//Bank
+"payplus_sdk_InitiatePayment"="Enviar";
+"payplus_sdk_BankSelectBank"="Selecciona un banco";
+"payplus_sdk_BankSelectOtherBank"="Seleccione otros bancos";
+"payplus_sdk_select_bank"="Seleccionar banco de la lista";
+"payplus_sdk_search_bank"="Busque desde aquí";
+"payplus_sdk_bank_detailsHeader"="Utilice los detalles a continuación para su transferencia bancaria";
+"payplus_sdk_bank_accountName"="Nombre de la cuenta:";
+"payplus_sdk_bank_accountNo"="Cuenta no:";
+"payplus_sdk_bank_accountCode"="Código de cuenta:";
+"payplus_sdk_bank_swiftCode"="Código SWIFT:";
+"payplus_sdk_bank_iBAN"="IBAN:";
+"payplus_sdk_bank_address"="Habla a:";
+"payplus_sdk_no_banks"="No se encontraron bancos.";
+"payplus_sdk_all_bank" = "Todos los bancos";
+"payplus_sdk_selecta_bank" = "Seleccionar banco";
+//Common
+"payplus_sdk_ok"="Okay";
+"payplus_sdk_cancel"="Cancelar";
+"payplus_sdk_alert"="Alerta";
+"payplus_sdk_continue"="SEGUIR";
+"payplus_sdk_Submit"="Enviar";
+"payplus_sdk_Error"="Error";
+"payplus_sdk_no_internet"="Por favor revise su conexion a internet";
+"payplus_sdk_timeout_error"="Se agotó el tiempo de espera de la transacción, intente después de algún tiempo.";
+"payplus_sdk_err"="Algo salió mal. Inténtalo de nuevo.";
+"payplus_sdk_done"="Hecha";
+"payplus_sdk_transaction_error_header" = "Transacción fallida";
+"payplus_sdk_transaction_Retry" = "PROCESAR DE NUEVO";
+"payplus_sdk_transaction_error_ChangePayment" = "Cambiar método de pago";
+
+
+//Mandatory reuirements
+"payplus_sdk_invalid_paymentchannelid"="ID de canal de pago no válido";
+"payplus_sdk_invalid_hierlabelreference"="Referencia de etiqueta de Hier inválida";
+"payplus_sdk_invalid_hierarchy"="Criterios de jerarquía comercial no válidos";
+"payplus_sdk_invalid_checksum"="Suma de comprobación de comerciante no válida";
+"payplus_sdk_invalid_merchantname"="Nombre de comerciante inválido";
+"payplus_sdk_invalid_productname"="Nombre de producto inválido";
+"payplus_sdk_invalid_mobilenumber"="Número de teléfono inválido";
+"payplus_sdk_invalid_emailid"="Dirección de correo electrónico no válida";
+"payplus_sdk_invalid_currency"="Código de moneda inválido";
+"payplus_sdk_invalid_amount"="Monto invalido";
+"payplus_sdk_invalid_appcolor"="Color de aplicación no válido";
+"payplus_sdk_invalid_fontcolor"="Color de fuente inválido";
+"payplus_sdk_invalid_font"="Archivo de fuente inválido";
+"payplus_sdk_invalid_recurringpayment"="Opción de pago recurrente no válida";
+"payplus_sdk_invalid_image"="Archivo de imagen inválido";
+"payplus_sdk_invalid_country_code"="Código de país no válido";
+"payplus_sdk_auth_failure"="El token de autorización no se pudo recuperar";
+"payplus_sdk_invalid_end_point"="Punto final no válido";
+"payplus_sdk_invalid_order_id"="ID de pedido no válido";
+"payplus_sdk_invalid_check_sum_payment"="Pago de suma de cheque no válido";
+"payplus_sdk_invalid_tax_included"="Impuesto no válido incluido";
+"payplus_sdk_invalid_customer_code"="Código de cliente inválido";
+"payplus_sdk_invalid_additional_fields"="Campos adicionales inválidos";
+"payplus_sdk_invalid_billing_address"="Dirección de facturación inválida";
+"payplus_sdk_invalid_billing_city"="Ciudad de facturación inválida";
+"payplus_sdk_invalid_billing_country"="País de facturación inválido";
+"payplus_sdk_invalid_billing_state"="Estado de facturación inválido";
+"payplus_sdk_invalid_billing_zip_code"="Código postal de facturación no válido";
+"payplus_sdk_invalid_customer_dial_code"="Código de marcación de cliente no válido";
+"payplus_sdk_invalid_customer_first_name"="Nombre de cliente inválido";
+"payplus_sdk_invalid_customer_last_name"="Apellido del cliente inválido";
+"payplus_sdk_invalid_ship_address"="Dirección de envío inválida";
+"payplus_sdk_invalid_ship_to_city"="Nave inválida a la ciudad";
+"payplus_sdk_invalid_ship_to_country"="Nave inválida al país";
+"payplus_sdk_invalid_ship_to_state"="Barco no válido al estado";
+"payplus_sdk_invalid_ship_to_zip_code"="Envío no válido al código postal";
+"payplus_sdk_invalid_statusbarcolor"="Color de barra de estado no válido";
+"payplus_sdk_invalid_ec_goods_indicator"="Indicador de bienes inválidos";
+"payplus_sdk_invalid_shipping_date"="Fecha de envío inválida";
+"payplus_sdk_invalid_languageCode"="Código de idioma inválido";
+"payplus_sdk_something_went_wrong"="Algo salió mal";
+"payplus_sdk_server_general_error" = "Error general del servidor";
+"payplus_sdk_regular_invalid_font" = "Archivo de fuente normal no válido";
+"payplus_sdk_invalid_payment_salt_key" = "Clave de sal de pago no válida";
+
+//EMI
+"payplus_sdk_EMI" = "EMI en tarjetas de crédito/débito";
+"pauplus_sdk_viewEMI_plans" = "VER PLANES EMI";
+"payplus_sdk_emi_Unavailable" = "EMI no disponible en esta tarjeta";
+"payplus_sdk_emi_onCards" = "EMI en tarjetas";
+"payplus_sdk_selectEMIFor" = "Seleccione el plan EMI para";
+"payplus_sdk_debitCard" = "Tarjeta de débito";
+"payplus_sdk_viewAllEMI_plans" = "VER TODOS LOS PLANES EMI";
+"payplsu_sdk_selectEMIPlan" = "Seleccione el plan EMI";
+"payplus_sdk_selecetPreferred_bank" = "Seleccionar banco preferido";
+"payplus_sdk_allEMIPlans" = "Todos los planes EMI";
+"payplus_sdk_bankProcessing_feeOf" = "Este banco cobra una tarifa de procesamiento de";
+"payplus_sdk_for_payments_madeEMI" = "para pagos realizados a través de EMI";
+"payplus_sdk_emi_tenure" = "Tenencia de EMI";
+"payplus_sdk_emi_payable" = "EMI pagadero";
+"payplus_sdk_total_label" = "Total";
+"payplus_sdk_pay_label" = "PAGAR";
+"payplus_sdk_months_at_label" = "meses @";
+"payplus_sdk_transaction_successful" = "Transacción exitosa";
+"payplus_sdk_payplus_order" = "orden PAYPLUS";
+"payplus_sdk_transaction_hash" = "Número de transacción";
+

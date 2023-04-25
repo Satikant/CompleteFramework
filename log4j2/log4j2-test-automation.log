@@ -1,0 +1,8 @@
+[INFO ] 2023-04-25 13:00:15.681 [main] Log - I am in onStart method LoginTest
+[INFO ] 2023-04-25 13:00:23.015 [main] Log - Login001 test is starting.
+[INFO ] 2023-04-25 13:00:39.476 [main] Log - Login001 test is succeed.
+[INFO ] 2023-04-25 13:00:40.878 [main] Log - Tests are ending!
+[INFO ] 2023-04-25 13:00:46.582 [main] Log - Login002 test is starting.
+[INFO ] 2023-04-25 13:01:10.258 [main] Log - Login002 test is failed.
+[INFO ] 2023-04-25 13:01:11.276 [main] Log - Tests are ending!
+[INFO ] 2023-04-25 13:01:11.389 [main] Log - I am in onFinish method LoginTest
